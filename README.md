@@ -14,4 +14,9 @@
 # login-network
 ## 🏷️ detalhes do projeto.
 
+## Tecnologias
+- HTML
+- CSS
+
+
 ## tela de login de uma plataforma de acesso a usuário que entrar com as informações do input e Button.
